@@ -4,7 +4,8 @@
 <img width="1257" height="742" alt="image" src="https://github.com/user-attachments/assets/ac16ccd2-af46-4405-916f-8b67b3836ef6" />
 
 ## Home
-<img width="1552" height="928" alt="image" src="https://github.com/user-attachments/assets/d0761cb4-366f-4c93-972b-246511d6d927" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/a7b49e1c-c571-4e57-9e59-d79907fe3041" />
+
 
 
 ## Download releases
