@@ -1,4 +1,4 @@
-# GNURT Tool - Premium Utility & Arcade Station
+# Gnurt Tool - Premium Utility & Arcade Station
 
 **GNURT Tool** là một siêu ứng dụng tiện ích đa năng cao cấp, kết hợp hoàn hảo giữa các công cụ hỗ trợ công việc hàng ngày và **Trạm Trò Chơi Arcade** giải trí kinh điển. Tất cả được tích hợp gọn gàng trong một giao diện Glassmorphism hiện đại, mượt mà và tối ưu hóa hiệu năng Native trên Windows.
 
