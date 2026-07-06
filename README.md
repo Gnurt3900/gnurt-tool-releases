@@ -2,7 +2,8 @@
 
 **GNURT Tool** là một siêu ứng dụng tiện ích đa năng cao cấp, kết hợp hoàn hảo giữa các công cụ hỗ trợ công việc hàng ngày và **Trạm Trò Chơi Arcade** giải trí kinh điển. Tất cả được tích hợp gọn gàng trong một giao diện Glassmorphism hiện đại, mượt mà và tối ưu hóa hiệu năng Native trên Windows.
 
-<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/018755fa-29c7-48a4-9f20-19de2401d56e" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/f251c635-c19d-489a-af18-f9a287eaae99" />
+
 
 ---
 
