@@ -17,6 +17,7 @@
 
 ### 1. Bộ Siêu Tiện Ích Cao Cấp (Premium Utilities)
 *   🔑 **Password Vault**: Két sắt lưu trữ mật khẩu mã hóa AES-256 cục bộ, tích hợp trình sinh mật khẩu ngẫu nhiên bảo mật và tự động khóa két sắt khi cửa sổ thu nhỏ hoặc mất focus.
+*   💻 **C# API Generator (CodeGen)**: Sinh tự động toàn bộ cấu hình API và logic dữ liệu (Controller, CQRS Command/Query, Validator, DTO, Repository, Service) đồng bộ 100% với cấu trúc dự án ASP.NET Core Web API bằng cách nhập tên bảng SQL hoặc nạp từ file Excel cấu hình.
 *   🖥️ **Workspace Launcher**: Quản lý và khởi chạy đồng loạt các tệp tin, ứng dụng Windows và địa chỉ URL theo từng không gian làm việc tùy chỉnh chỉ với một cú click chuột.
 *   📈 **Wealth Tracker**: Theo dõi biến động tài sản cá nhân, quản lý dòng tiền thu chi kèm biểu đồ thống kê trực quan.
 *   🚀 **LAN File Transfer**: Chia sẻ tệp tin dung lượng lớn giữa các máy tính trong mạng nội bộ siêu tốc không cần internet.
@@ -67,8 +68,8 @@ Mã nguồn được tối ưu hóa sâu để chạy Native siêu nhẹ, siêu 
 
 Ứng dụng hỗ trợ chạy Native mượt mà trên hệ điều hành **Windows 10 / 11** (64-bit).
 
-1.  Truy cập vào mục [Releases](https://github.com/Gnurt3900/gnurt-tool-releases/releases) của Repository này.
-2.  Tải xuống bản phát hành mới nhất (`.zip`).
+1.  Truy cập vào mục [Releases](https://github.com/Gnurt3900/gnurt_tool/releases) của Repository này.
+2.  Tải xuống bản phát hành mới nhất (`.rar`).
 3.  **Giải nén** thư mục ra ổ đĩa của bạn (ví dụ: ổ `C:\` hoặc `D:\`).
 4.  Nhấp đúp chuột vào tệp tin **`gnurt_tool.exe`** để mở ứng dụng và sử dụng ngay lập tức mà không cần cấu hình phức tạp.
 
