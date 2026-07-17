@@ -2,7 +2,7 @@
 
 **GNURT Tool** là một siêu ứng dụng tiện ích đa năng cao cấp chạy Native trên Windows. Ứng dụng kết hợp hoàn hảo giữa các công cụ hỗ trợ công việc hàng ngày, lập trình viên và **Trạm Trò Chơi Arcade** giải trí Neon bắt mắt, mang lại trải nghiệm mượt mà bám sát tần số quét màn hình cùng triết lý bảo mật dữ liệu tuyệt đối.
 
-<img width="1457" height="898" alt="image" src="https://github.com/user-attachments/assets/6ce593df-c61c-4707-97ef-31f391f8c929" />
+<img width="1915" height="1013" alt="image" src="https://github.com/user-attachments/assets/ce8ddd75-9c7c-4424-9b63-46977a93740a" />
 
 ---
 
