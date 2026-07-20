@@ -84,7 +84,7 @@ chmod +x gnurt_tool
 
 # Khởi chạy ứng dụng trực tiếp từ Terminal
 ./gnurt_tool
-
+```
 ---
 
 ## 📧 Hỗ Trợ & Liên Hệ
