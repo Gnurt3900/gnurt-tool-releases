@@ -78,9 +78,11 @@ Hướng dẫn cài đặt và sử dụng trên **Linux Ubuntu**
 2.  Tải xuống bản phát hành mới nhất (`.zip`).
 3.  **Giải nén** thư mục ra ổ đĩa của bạn (ví dụ: thư mục Home hoặc /home/tên_user/Tools/).
 4.  Mở Terminal (Nhấn tổ hợp phím Ctrl + Alt + T) tại thư mục vừa giải nén, cấp quyền thực thi và chạy ứng dụng bằng các lệnh sau:
-Cấp quyền thực thi cho tệp tin của ứng dụng:
+```bash
+# Cấp quyền thực thi cho tệp tin của ứng dụng
 chmod +x gnurt_tool
-Khởi chạy ứng dụng trực tiếp từ Terminal:
+
+# Khởi chạy ứng dụng trực tiếp từ Terminal
 ./gnurt_tool
 
 ---
