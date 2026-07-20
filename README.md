@@ -66,12 +66,22 @@ Mã nguồn được tối ưu hóa sâu để chạy Native siêu nhẹ, siêu 
 
 ## 📥 Hướng Dẫn Tải & Cài Đặt (Download & Installation)
 
-Ứng dụng hỗ trợ chạy Native mượt mà trên hệ điều hành **Windows 10 / 11** (64-bit).
+Hướng dẫn cài đặt và sử dụng trên **Windows 10 / 11** (64-bit).
 
 1.  Truy cập vào mục [Releases](https://github.com/Gnurt3900/gnurt_tool/releases) của Repository này.
-2.  Tải xuống bản phát hành mới nhất (`.rar`).
+2.  Tải xuống bản phát hành mới nhất (`.zip`).
 3.  **Giải nén** thư mục ra ổ đĩa của bạn (ví dụ: ổ `C:\` hoặc `D:\`).
 4.  Nhấp đúp chuột vào tệp tin **`gnurt_tool.exe`** để mở ứng dụng và sử dụng ngay lập tức mà không cần cấu hình phức tạp.
+
+Hướng dẫn cài đặt và sử dụng trên **Linux Ubuntu**
+1.  Truy cập vào mục [Releases](https://github.com/Gnurt3900/gnurt_tool/releases) của Repository này.
+2.  Tải xuống bản phát hành mới nhất (`.zip`).
+3.  **Giải nén** thư mục ra ổ đĩa của bạn (ví dụ: thư mục Home hoặc /home/tên_user/Tools/).
+4.  Mở Terminal (Nhấn tổ hợp phím Ctrl + Alt + T) tại thư mục vừa giải nén, cấp quyền thực thi và chạy ứng dụng bằng các lệnh sau:
+# Cấp quyền thực thi cho tệp tin của ứng dụng
+chmod +x gnurt_tool
+# Khởi chạy ứng dụng trực tiếp từ Terminal
+./gnurt_tool
 
 ---
 
