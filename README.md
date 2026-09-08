@@ -87,4 +87,4 @@ Hướng dẫn cài đặt và sử dụng trên **Windows 10 / 11** (64-bit):
 ---
 
 ## 📧 Hỗ Trợ & Đóng Góp
-Nếu bạn gặp bất kỳ sự cố nào hoặc có đề xuất tính năng mới, vui lòng tạo một **Issue** trực tiếp tại [Repository chính](https://github.com/Gnurt3900/gnurt-tool/issues) để được hỗ trợ nhanh nhất.
+Nếu bạn gặp bất kỳ sự cố nào hoặc có đề xuất tính năng mới, vui lòng tạo một **Issue** trực tiếp tại [Repository chính](https://github.com/Gnurt3900/gnurt-tool-releases/issues) để được hỗ trợ nhanh nhất.
