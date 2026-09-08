@@ -79,7 +79,7 @@ Mã nguồn được tối ưu hóa sâu để chạy Native siêu nhẹ, siêu 
 
 Hướng dẫn cài đặt và sử dụng trên **Windows 10 / 11** (64-bit):
 
-1.  Truy cập vào mục [Releases](https://github.com/Gnurt3900/gnurt-tool/releases) của Repository.
+1.  Truy cập vào mục [Releases](https://github.com/Gnurt3900/gnurt-tool-releases/releases) của Repository.
 2.  Tải xuống bản phát hành mới nhất (`.zip`).
 3.  **Giải nén** thư mục ra ổ đĩa của bạn (ví dụ: `C:\GnurTool` hoặc `D:\GnurTool`).
 4.  Nhấp đúp chuột vào tệp tin **`GnurTool.exe`** để mở ứng dụng và sử dụng ngay lập tức mà không cần cài đặt thêm.
