@@ -2,7 +2,7 @@
 
 **GNURT Tool** (hay **GnurTool**) là một siêu ứng dụng tiện ích đa năng cao cấp chạy Native trên Windows Desktop. Ứng dụng kết hợp hoàn hảo giữa các công cụ hỗ trợ công việc hàng ngày, lập trình viên và **Trạm Trò Chơi Arcade** E-Ink thanh lịch, mang lại trải nghiệm mượt mà bám sát tần số quét màn hình cùng triết lý bảo mật dữ liệu tuyệt đối (Local-First).
 
-<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/ef83cb9d-03ab-461e-ad86-42e67e6821d8" />
+<img width="1353" height="937" alt="image" src="https://github.com/user-attachments/assets/77891ca3-89ad-421c-837e-e74569d970ea" />
 
 
 
