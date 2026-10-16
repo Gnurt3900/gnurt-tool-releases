@@ -2,8 +2,7 @@
 
 **GNURT Tool** (hay **GnurTool**) là một siêu ứng dụng tiện ích đa năng cao cấp chạy Native trên Windows Desktop. Ứng dụng kết hợp hoàn hảo giữa các công cụ hỗ trợ công việc hàng ngày, lập trình viên và **Trạm Trò Chơi Arcade** E-Ink thanh lịch, mang lại trải nghiệm mượt mà bám sát tần số quét màn hình cùng triết lý bảo mật dữ liệu tuyệt đối (Local-First).
 
-<img width="1353" height="937" alt="image" src="https://github.com/user-attachments/assets/77891ca3-89ad-421c-837e-e74569d970ea" />
-
+<img width="1172" height="832" alt="image" src="https://github.com/user-attachments/assets/1a1caee0-7b23-4534-928d-cbdf3cd88751" />
 
 
 ---
@@ -28,6 +27,7 @@
 *   📊 **SQL Generator**: Biên dịch tự động bảng dữ liệu Excel thành mã truy vấn SQL Server / MySQL nhanh chóng.
 *   🎨 **Color Studio**: Công cụ phối màu và kiểm tra độ tương phản UI chuẩn WCAG cho Designer/Developer.
 *   📝 **Notes Studio**: Trình ghi chú nhanh Rich Text hỗ trợ định dạng văn bản nâng cao.
+*   💻 **Thông tin hệ thống**: Xem nhanh thông số CPU, GPU, RAM, ổ đĩa lưu trữ, xóa tệp tin rác và bộ nhớ đệm.
 *   🌐 **Network Tools**: Công cụ đo độ trễ mạng (Ping) nội bộ và internet chuyên dụng.
 *   ⏱️ **Pomodoro Timer**: Đồng hồ quản lý thời gian tập trung làm việc hiệu quả.
 *   🔳 **QR Decorator**: Tạo và tùy biến phong cách, màu sắc, logo cho mã QR.
