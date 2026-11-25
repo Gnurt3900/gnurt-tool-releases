@@ -2,7 +2,7 @@
 
 **GnurTool** là ứng dụng desktop cho **Windows 10/11 (64-bit)**, gom các công cụ dùng hằng ngày cho công việc, lập trình và một trạm trò chơi Arcade vào một chỗ. Dữ liệu lưu **cục bộ trên máy bạn**; app chỉ dùng mạng ở vài chức năng nêu rõ bên dưới.
 
-<img width="1369" height="801" alt="image" src="https://github.com/user-attachments/assets/e8de8956-9e44-4d1d-b24e-a03a65188e24" />
+<img width="1301" height="809" alt="image" src="https://github.com/user-attachments/assets/7e80de64-08c2-4ce0-be50-0b0bd3bd896b" />
 
 ---
 
@@ -20,7 +20,7 @@
 - 📈 **Quản lý tài sản** — theo dõi dòng tiền, danh mục tài sản, biểu đồ; đồng bộ giá vàng/chứng khoán khi bạn bấm.
 - 🎨 **Studio phối màu** — bánh xe màu, phối màu hài hoà, kiểm tra tương phản WCAG, trích màu từ ảnh.
 - 📝 **Ghi chú** — soạn thảo Rich Text, thùng rác, xuất Markdown / văn bản thuần.
-- 💻 **Thông tin hệ thống** — CPU, GPU, RAM, ổ đĩa, màn hình, mạng; quét và dọn tệp tạm.
+- 💻 **Thông tin & Dọn dẹp** — Xem cấu hình máy và dọn rác an toàn.
 - 🌐 **Phân tích mạng** — Ping, quét cổng, tra cứu DNS, thông tin IP.
 - ⏱️ **Pomodoro** — hẹn giờ tập trung kèm danh sách việc cần làm.
 - 🔳 **Tạo mã QR** — tuỳ chỉnh màu, kiểu, logo; hỗ trợ URL, văn bản, Wi-Fi.
